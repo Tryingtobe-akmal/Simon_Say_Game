@@ -14,10 +14,9 @@ let body=document.querySelector("body");
 
 document.addEventListener("keypress",function(){
     if(started==false){
-        console.log("Game is started");
-    }
-    started=true;
-    levelUp();
+        started=true;
+       levelUp();
+    }   
 });
 
 //btn flash function by game 
@@ -58,6 +57,9 @@ for(btn of btns){
 }
 //btn press function
 function btnPress(){
+    if(started==false){
+        return;
+    }
     userFlash(this);  
     btn=this;
     let color=this.getAttribute("id");
