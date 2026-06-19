@@ -10,9 +10,9 @@ let level=0;
 let h2 =document.querySelector("h2");
 let btn=document.querySelectorAll(".btn");
 let body=document.querySelector("body");
+let button=document.querySelector(".primary-btn");
 
-
-document.addEventListener("keypress",function(){
+button.addEventListener("click",function(){
     if(started==false){
         started=true;
        levelUp();

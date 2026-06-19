@@ -221,3 +221,20 @@ h4 {
         border-width: 0.25rem;
     }
 }
+
+.primary-btn {
+  background-color: #e92f2f; /* Button color */
+  color: #ffffff;            /* Text color */
+  border: none;              /* Remove default border */
+  padding: 12px 24px;        /* Spacing inside button */
+  font-size: 16px;           /* Text size */
+  font-weight: 600;          /* Bold text */
+  border-radius: 6px;        /* Rounded corners */
+  cursor: pointer;           /* Changes cursor to pointer on hover */
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+/* Hover State */
+.primary-btn:hover {
+  background-color: #0056b3; /* Darker blue */
+}
