@@ -4,7 +4,7 @@ A simple and fun Simon Say memory game built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Application
 
-### 👉 [Open Game — Live Website](https://portfolio-dupz.onrender.com)
+### 👉 [Open Game — Live Website](https://simon-say-game-pub9.onrender.com)
 
 ## About This Project
 
