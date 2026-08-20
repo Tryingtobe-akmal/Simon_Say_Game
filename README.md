@@ -2,6 +2,10 @@
 
 A simple and fun Simon Say memory game built with HTML, CSS, and JavaScript.
 
+## 🚀 Live Application
+
+### 👉 [Open HomieGo — Live Website](https://homiego-xcb1.onrender.com/listings)
+
 ## About This Project
 
 This project is a browser-based memory game where the player has to remember the color sequence shown by the game and repeat it correctly. With every correct round, the level increases and the sequence becomes longer.
