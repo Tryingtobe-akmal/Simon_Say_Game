@@ -4,7 +4,7 @@ A simple and fun Simon Say memory game built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Application
 
-### 👉 [Open HomieGo — Live Website](https://homiego-xcb1.onrender.com/listings)
+### 👉 [Open Game — Live Website](https://portfolio-dupz.onrender.com)
 
 ## About This Project
 
